@@ -20,6 +20,7 @@ module.exports = function check(str, bracketsConfig) {
             }
         }
     }
+    
     return (myArray.length < 1);
 };
 
